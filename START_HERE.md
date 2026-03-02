@@ -5,7 +5,7 @@ KinCart is a non-commercial research artefact used to study **visibility-to-enfo
 ## Fast Path
 
 1) **Research Artefact (Used in Study)**
-   - Figma Prototype (Used in Interpretive Walkthrough Interviews): [Figma Prototype](https://www.figma.com/proto/0BKLn5A6LTL217Wn1Vtk1u/KinCart-Hi-fi-Mock-up-Screens?node-id=484-6085&t=1YxIJJ2rhqY7Rphx-1)
+   - Figma Prototype (Used in Interpretive Walkthrough Interviews): [Unlisted]
    - Short Walkthrough Video (2 to 3 min, unlisted): shared on request for supervisor and reviewer fit assessment
 
 2) **Research Contribution and Safety Notes**
