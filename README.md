@@ -28,7 +28,6 @@ Binding decisions and drift-prevention gates are recorded in the governance repo
 - [Research Contribution (One Page)](./appendix/research-contribution.md)
 - [Domain Language](./domain-language.md)
 - [Invariants](./invariants.md)
-- [System Flows (Current Research Prototype)](./system-flows.md)
 - - [Risk Register (Research Process + Participant Risks)](./appendix/riskregister.md)
 - [Failure-Mode Tests (Public-Safe)](./appendix/failuremode.md)
 
@@ -58,5 +57,4 @@ Implementation mechanics are intentionally not included in this public repositor
 - `domain-language.md`
 - `invariants.md`
 - `artefact-definition.md`
-- `system-flows.md`
 - `appendix/`
